@@ -44,7 +44,8 @@ exibirNomeEmpresa();
 // A função é atribuida a uma variavel
 // PARTICULARIDADE - Esse tipo de função não possui hoisting
 // Versão recomendada de uso, pois quanto mais previsivel o comportamento de seu código melhor
-// Caso seja necessário, é mais fácil de debugar o código
+// Caso seja necessário, é mais fácil de debugar o código e consertar erros
+// Preferencialmente declarar as funções no topo do código
 
 
 // DECLARAR VARIAVEL/FUNÇÃO - SINTAXE
